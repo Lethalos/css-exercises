@@ -1,0 +1,13 @@
+.click-me,.dont-click-me {
+  font-size: 28px;
+  font-family: Helvetica, Times, sans-serif;
+}
+
+.click-me {
+  background-color: blanchedalmond;
+  color: gold;
+}
+
+.dont-click-me {
+  background-color: aquamarine;
+}
