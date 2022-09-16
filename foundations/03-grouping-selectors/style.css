@@ -1,4 +1,5 @@
-.click-me,.dont-click-me {
+.click-me,
+.dont-click-me {
   font-size: 28px;
   font-family: Helvetica, Times, sans-serif;
 }
